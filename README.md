@@ -1,3 +1,8 @@
+##Student notes
+I uploaded the four R scripts and the 4 png files. The scripts are dependent on cleanthedata.R, which takes the text file household_power_consumption
+and reads it as a csv, but only the two dates we used for this assignment. cleanthedata also removes the date and time columns, replacing them with a single date time stamp.
+
+
 ## Introduction
 
 This assignment uses data from
